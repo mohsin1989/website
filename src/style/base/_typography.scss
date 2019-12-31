@@ -10,6 +10,18 @@ a {
   font-size: $default-font-size;
 }
 
+p, 
+ul,
+li {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem;
+}
+
+ul {
+  padding-left: 10px;
+  list-style-position: outside;
+}
+
 a,
 a:link,
 a:hover,
